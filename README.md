@@ -2,7 +2,7 @@
 ###### Challenge 7 Assignment
 
 ## Overview of the Project
-As Baby boomers are retring at an accelerated rate (Silver Tsunami), the fictional company, Pewlett Hackard is preparing for its impact. To prepare for the upcoming retirements, the company is considering a mentorship program that will utilize their current work force to train future generations. The purpose of this analysis is to assist Pewlett Hackard in identifying the number of potential retiring employees by their job title and possible mentors. The analysis is driven by two primary questions: 
+As Baby boomers are retring at an accelerated rate ("Silver Tsunami"), the fictional company, Pewlett Hackard is preparing for its impact. To prepare for the upcoming retirements, the company is considering a mentorship program that will utilize their current work force to train future generations. The purpose of this analysis is to assist Pewlett Hackard in identifying the number of potential retiring employees by their job title and possible mentors. The analysis is driven by two primary questions: 
 1) Who is retiring?
 2) How many roles will need to be filled from the impact of the "Silver Tsunami?" 
 
@@ -24,7 +24,7 @@ The table below reveals the number of retirement age employees who were born bet
 
 
 ## Summary
-As the Baby Boomer generation moves towards retirement age, companies are examining strategies in how to brace for the impact.  This analysis had shown the amount of employees who are near and at retirement age at Pewlett Hackard.  Across all departments, it is revealed that 90,398 roles will need to be filled in the upcoming years, including two important high-level managerial positions.
+As the Baby Boomer generation moves towards retirement age, companies are examining strategies in how to brace for the impact.  This analysis had shown the amount of employees who are near and at retirement age at Pewlett Hackard. It is revealed that 90,398 roles will need to be filled in the upcoming years, including two important high-level managerial positions.
 
 A potential strategy is to develop a mentorship program, which would have qualified employees who are near and at retirement age to train the next generation of Pewlett Hackard employees.  The table below displays the breakdown of *eligible* mentors by title.  (*Eligible*:  January 1, 1965 to December 31, 1965) 
 
@@ -34,5 +34,5 @@ A potential strategy is to develop a mentorship program, which would have qualif
 ##### The query used to create the mentorship table breakdown
  ![Fig3](https://github.com/retroxsky06/Pewlett-Hackard-Analysis/blob/main/Images/mb.png)
 
-From the analysis, there are 1,549 qualified, retirement-ready mentors; however, it is not enough to train the next generation of Pewlett Hackard employees.  One solution is to widen the pool of mentors by expanding the birth year parameters.  Additionally, as Pewlett Hackard is considering those who may be retiring, it is highly recommended that they too also examine their hiring strategies.  As a mentoship program seems like a best practice, there will need to be enough new employees to mentor.  By expanding mentors and new employees, Pewlett Hackard is more likely to be prepared for the impact of the silver tsunami.
+From the analysis, there are 1,549 qualified, retirement-ready mentors; however, it is not enough to train the next generation of Pewlett Hackard employees.  One solution is to widen the pool of mentors by expanding the birth year parameters.  Additionally, as Pewlett Hackard is considering those who may be retiring, it is highly recommended that they too also examine their hiring strategies.  As a mentoship program seems like a best practice, there will need to be enough new employees to mentor.  By expanding mentors and new employees, Pewlett Hackard is more likely to be prepared for the impact of the "silver tsunami".
 
