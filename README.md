@@ -2,7 +2,7 @@
 ###### Challenge 7 Assignment
 
 ## Overview of the Project
-As Baby boomers are retring at an accelerated rate (Silver Tsunami), the fictional company, Pewlett Hackard is preparing for its impact. To prepare for the upcoming retirements, the company is considering a mentorship program that will utilize their current work force, and who will train future generations. The purpose of this analysis is to assist Pewlett Hackard in identifying the number of potential retiring employees by their job title and mentors. The analysis is driven by two primary questions: 
+As Baby boomers are retring at an accelerated rate (Silver Tsunami), the fictional company, Pewlett Hackard is preparing for its impact. To prepare for the upcoming retirements, the company is considering a mentorship program that will utilize their current work force to train future generations. The purpose of this analysis is to assist Pewlett Hackard in identifying the number of potential retiring employees by their job title and possible mentors. The analysis is driven by two primary questions: 
 1) Who is retiring?
 2) How many roles will need to be filled from the impact of the "Silver Tsunami?" 
 
@@ -24,9 +24,13 @@ The table below reveals the number of retirement age employees who were born bet
 
 
 ## Summary
+As the Baby Boomer generation moves towards retirement age, companies are examining strategies in how to brace for the impact.  This analysis has had shown the amount of employees who are near and at retirement age at Pewlett Hackard.  Across all departments, it is revealed that 90,398 roles will need to be filled in the upcoming years, including two important high-level managerial positions.
+
+A potential strategy is to develop a mentorship program, which would have qualified employees who are near and at retirement age to train the next generation of Pewlett Hackard employees.  The table below displays the breakdown of *eligible* mentors by title.  (*Eligible:  January 1, 1965 to December 31, 1965) 
+
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-#### Table 2: Breakdown of eligibile mentors by title.
+#### Table 2: Breakdown of eligibile mentors by title
 ![Fig2](https://github.com/retroxsky06/Pewlett-Hackard-Analysis/blob/main/Images/Positions_to_be_filled.png)
 
 ##### The query used to create the mentorship table breakdown
