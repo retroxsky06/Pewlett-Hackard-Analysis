@@ -29,12 +29,8 @@ Provide high-level responses to the following questions, then provide two additi
 #### Table 2: Breakdown of eligibile mentors by title.
 ![Fig2](https://github.com/retroxsky06/Pewlett-Hackard-Analysis/blob/main/Images/Positions_to_be_filled.png)
 
-###### The query used to create the mentorship table breakdown
- -- to attain breakdown of mentors by titles
- SELECT COUNT (emp_no), title
-FROM mentorship_eligibility
-GROUP BY title
-ORDER BY count ASC;
+##### The query used to create the mentorship table breakdown
+ ![Fig3](https://github.com/retroxsky06/Pewlett-Hackard-Analysis/blob/main/Images/mb.png)
 
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
