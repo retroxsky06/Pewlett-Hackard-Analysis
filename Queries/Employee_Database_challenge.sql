@@ -56,5 +56,15 @@ ORDER BY emp.emp_no;
 
 SELECT * FROM mentorship_eligibility;
 
+-- Retrieve count of mentorship eligbility
 SELECT COUNT(first_name)
 FROM mentorship_eligibility;
+
+-- To attain breakdown of mentors by titles
+SELECT COUNT (emp_no), title
+FROM mentorship_eligibility
+GROUP BY title
+ORDER BY count ASC;
+
+
+
