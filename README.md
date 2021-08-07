@@ -1,6 +1,10 @@
 # Preparing for the Silver Tsunami
+#### Challenge 7 Assignment: Performing an employment analysis to project the number of employees who are eligible for retirement.
 
 ## Overview of the Analysis
+The purpose of this analysis is to assist the ficitonal company, Pewlett Hackard, to identify the number of potential retiring employees by their job title. The analysis is driven by two primary questions: 
+1) Who is retiring?
+2) How many positions will Hewlett Packard need to fill? 
 
 
 
