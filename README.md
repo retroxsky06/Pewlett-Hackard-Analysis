@@ -2,9 +2,10 @@
 
 ## Overview of the Analysis
 
-### Software and Resources
-- Software: PostGres, PGAdmin4
-- Resources: Six csv files that can be found in the Data folder.
+### Software 
+- PostGreSQL 11.1
+- PGAdmin 4.4
+
 
 
 ## Results
