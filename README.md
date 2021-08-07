@@ -26,5 +26,17 @@ The table below reveals the number of retirement age employees who were born bet
 ## Summary
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
+
+#### Table 2:
+
+
+###### The query used to create the mentorship table breakdown
+-- To attain breakdown of mentors by titles
+SELECT COUNT (emp_no), title
+FROM mentorship_eligibility
+GROUP BY title
+ORDER BY count ASC;
+
+
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 1549
