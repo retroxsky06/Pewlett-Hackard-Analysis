@@ -26,12 +26,11 @@ The table below reveals the number of retirement age employees who were born bet
 ## Summary
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
-
 #### Table 2: Breakdown of eligibile mentors by title.
 ![Fig2](https://github.com/retroxsky06/Pewlett-Hackard-Analysis/blob/main/Images/Positions_to_be_filled.png)
 
 ###### The query used to create the mentorship table breakdown
-####### -- To attain breakdown of mentors by titles
+#######  -- to attain breakdown of mentors by titles
 ####### SELECT COUNT (emp_no), title
 ####### FROM mentorship_eligibility
 ####### GROUP BY title
